@@ -1,4 +1,5 @@
-<img width="1024" height="256" alt="Banner Jailson Henrique" src="https://github.com/user-attachments/assets/1be26039-434f-4f70-847a-e44db22d34b9" />
+<img width="1037" height="262" alt="image" src="https://github.com/user-attachments/assets/2a7a055a-7a85-488a-a508-6d85c6b97622" />
+
 
 # Olá, eu sou Jailson Henrique
 
