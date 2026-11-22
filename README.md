@@ -1,9 +1,46 @@
-# 👋 Olá, eu sou Jailson Henrique!
+COLE_A_ARTE_AQUI
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jailson%20Henrique&fontSize=70&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Computing%20%7C%20Python&descAlignY=55&descAlign=50"/>
-</p>
+# Olá, eu sou Jailson Henrique
 
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIP** e profissional em transição para a área de Tecnologia.
+
+Meu foco de desenvolvimento profissional está em **Python, FastAPI, Cloud Computing e automação de processos**, criando sistemas práticos voltados para logística, gestão operacional e atendimento.
+
+---
+
+### Sobre mim
+
+Minha trajetória profissional foi construída na área de **logística e operações**, onde desenvolvi experiência sólida com controle de processos, fluxo de materiais, resolução de problemas e sistemas corporativos como **WMS e SAP**.
+
+Atualmente, uno essa vivência operacional ao desenvolvimento de software para construir soluções reais e eficientes.
+
+---
+
+### Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Projetos em Destaque
+
+- **[PullFlow](https://github.com/jailsonhenrique02/pullflow):** Sistema de controle e reposição puxada (Pull System) desenvolvido para agilizar o abastecimento de linhas de produção e a gestão de estoque em porta-pallets com painel industrial de alto contraste.
+- **[Gestão de Pneus](https://github.com/jailsonhenrique02/gestao-pneus):** Aplicação desktop para controle de estoque e vendas no setor automotivo.
+
+---
+
+### Estatísticas no GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jailsonhenrique02&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonhenrique02&layout=compact&theme=tokyonight&hide_border=true)
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIP** e profissional em transição para a área de Tecnologia.
 
 ☁️ Meu foco de desenvolvimento profissional está em **DevOps, Cloud Computing e automação**, utilizando projetos práticos para transformar meus estudos em experiência.
